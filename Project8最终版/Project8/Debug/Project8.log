@@ -1,0 +1,21 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  ui.c
+d:\documents\visual studio 2017\projects\project8\project8\ui.c(72): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+d:\documents\visual studio 2017\projects\project8\project8\ui.c(72): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+d:\documents\visual studio 2017\projects\project8\project8\ui.c(73): warning C4133: “函数”: 从“unsigned short [17]”到“LPCSTR”的类型不兼容
+d:\documents\visual studio 2017\projects\project8\project8\ui.c(214): warning C4013: “GetBoundary”未定义；假设外部返回 int
+d:\documents\visual studio 2017\projects\project8\project8\ui.c(214): warning C4047: “初始化”:“POINT *”与“int”的间接级别不同
+d:\documents\visual studio 2017\projects\project8\project8\ui.c(239): warning C4013: “SetBoundary”未定义；假设外部返回 int
+  stack.c
+  main.c
+  game.c
+d:\documents\visual studio 2017\projects\project8\project8\game.c(14): warning C4013: “time”未定义；假设外部返回 int
+d:\documents\visual studio 2017\projects\project8\project8\game.c(65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\documents\visual studio 2017\projects\project8\project8\game.c(67): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\documents\visual studio 2017\projects\project8\project8\game.c(69): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\documents\visual studio 2017\projects\project8\project8\game.c(185): warning C4013: “Footprint”未定义；假设外部返回 int
+d:\documents\visual studio 2017\projects\project8\project8\game.c(252): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\documents\visual studio 2017\projects\project8\project8\game.c(290): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  正在生成代码...
+  Project8.vcxproj -> d:\documents\visual studio 2017\Projects\Project8\Debug\Project8.exe
+  Project8.vcxproj -> d:\documents\visual studio 2017\Projects\Project8\Debug\Project8.pdb (Partial PDB)
